@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bai Toan Lai kep</title>
+</head>
+<body>
+
+</body>
+
+</html>
+            <script>
+                let T = 0 ;
+                let n =0 ;
+                let a = parseInt(prompt ("Nhap tien gui "));
+                let r = parseInt(prompt("Nhap lai xuat " + " "+ "%"));
+                let i = parseInt(prompt("Nhap so thang gui :"));
+                let text = "" ;
+                // let lai = " ";
+                do{
+
+                    n++;
+                    T = a * ((1+r/100)**n) ;
+                    text +=  "<br>"+"So tien lai sau"+" "+n +" " +"thang gui la : " + T +" "+"Dong";
+
+
+                }
+                while (  n<i)
+                    document.write(text );
+
+            </script>
