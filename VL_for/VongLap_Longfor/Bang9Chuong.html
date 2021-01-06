@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bang cuu chuong</title>
+</head>
+<body>
+
+        <script>
+            let table= "<table width=\"850px\" border=\"1p\" cellspacing=\"0px\" cellpadding=\"3px\">";
+            let x , y ;
+            for(x=1;x<=10;x++){
+                table = table + "<tr>" ;
+                for(y=1;y<=10;y++){
+                    table= table + "<td>"+y +" x " + x +" = "+ y*x +"</td>" ;
+                }
+                table = table + "</tr>";
+            }
+            table=table+"</table>";
+            document.write(table);
+        </script>
+</body>
+</html>
