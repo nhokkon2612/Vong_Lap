@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="265c5d95-c23f-4ffb-86d9-cabf599b3c08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/VL_for/VongLap_Longfor/TimSoNguyenTo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tapVL/VL01/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tapVL/VL01/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tapVL/VL01/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tapVL/VL01/bai3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/VL_for/VongLap_Longfor" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mfwTq2syOelIhGV8xDSQMFhuZj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609897963410</updated>
-      <workItem from="1609897964578" duration="23479000" />
+      <workItem from="1609897964578" duration="30263000" />
     </task>
     <servers />
   </component>

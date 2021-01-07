@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>viet so fibonaci thu 20</title>
+</head>
+<body>
+        <script>
+            let n=parseInt(prompt("Nhap thu tu so Fibonaci can hien thi : "));
+            let a=0;
+            let b=1;
+            let count=2
+            let c;
+            while (count<n){
+                c=a+b;
+                a=b;
+                b=c;
+                count++;
+            }
+            document.write("So Fibonaci thu "+n+" la "+c);
+        </script>
+</body>
+</html>
